@@ -1,0 +1,1 @@
+The SQL Query Generator project utilizes SQLite for efficient database management, Python for backend logic, and Streamlit for a user-friendly interface. It integrates Google API to enhance query functionality and retrieval. Users can interact with the database through an intuitive web UI to create, manage, and execute SQL queries.
